@@ -1,7 +1,7 @@
 <!-- 🌟 Add your GIF below -->
 <div align="center">
   <!-- Replace the link below with your GIF -->
-  <img src="YOUR_GIF_LINK_HERE" alt="Hey there!" width="100%">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlxaDUyMTRmcmFzd3UxOTJtcXM1dXlpbjkzcnE3d2FsdHJvaWl0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUALqgQzdc3Vm/giphy.gif" width="40%">
 </div>
 
 ###
