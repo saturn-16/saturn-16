@@ -32,7 +32,6 @@
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=saturn-16\&style=for-the-badge\&color=7C3AED)
-![](https://img.shields.io/github/followers/saturn-16?style=for-the-badge\&color=4F46E5)
 ![](https://img.shields.io/github/stars/saturn-16?style=for-the-badge\&color=A855F7)
 
 </div>
