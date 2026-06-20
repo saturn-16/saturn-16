@@ -99,7 +99,7 @@ Over the years, I have built projects involving phishing detection, threat intel
 | Performance | Real-Time Threat Detection          |
 | Security    | AES-256 Encryption                  |
 | Impact      | Unified Security Platform           |
-| Repository  | https://github.com/saturn-16        |
+| Repository  | https://github.com/saturn-16/Cyber-Sphere|
 
 CyberSphere is a full-stack cybersecurity platform that combines phishing detection, cloud security analysis, secure file sharing, malware intelligence, and AI-powered threat scoring into a single unified dashboard.
 
@@ -117,7 +117,7 @@ CyberSphere is a full-stack cybersecurity platform that combines phishing detect
 | Performance | 92% Detection Accuracy        |
 | Security    | Multi-Layer Threat Detection  |
 | Impact      | Live Chat Protection          |
-| Repository  | https://github.com/saturn-16  |
+| Repository  | https://github.com/saturn-16/Youtube-Guardian|
 
 YouTube Guardian protects livestream communities against phishing attacks and malicious links by combining machine learning models with real-time threat intelligence services.
 
@@ -135,7 +135,7 @@ YouTube Guardian protects livestream communities against phishing attacks and ma
 | Performance | Deep Learning Powered              |
 | Security    | Containerized Deployment           |
 | Impact      | Urban Growth Prediction            |
-| Repository  | https://github.com/saturn-16       |
+| Repository  | https://github.com/saturn-16/GIS   |
 
 An advanced spatial intelligence platform that performs satellite image segmentation, land-use classification, urban growth prediction, and AI-driven environmental analysis.
 
@@ -153,7 +153,7 @@ An advanced spatial intelligence platform that performs satellite image segmenta
 | Performance | High Precision Classification     |
 | Security    | Multi-API Validation              |
 | Impact      | Reduced False Positives           |
-| Repository  | https://github.com/saturn-16      |
+| Repository  | https://github.com/saturn-16/AI-Phishing-Detection-Web-App|
 
 A machine learning powered phishing detection engine integrated with VirusTotal, Google Safe Browsing, and AbuseIPDB for enhanced threat identification and analysis.
 
